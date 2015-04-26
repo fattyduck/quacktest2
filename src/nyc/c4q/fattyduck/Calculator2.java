@@ -5,7 +5,9 @@ package nyc.c4q.fattyduck;
 import java.util.Scanner;
 public class Calculator2
 {
-    public static void calc(String input){
+    private double cow = 0;
+    private static void calc(String input){
+
         String[] array= input.split(" ");
         Double  one = Double .valueOf(array[0]);
         Double  two = Double .valueOf(array[2]);

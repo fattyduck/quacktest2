@@ -6,7 +6,7 @@ import java.util.Scanner;
  */
 public class Calculator
 {
-    public static void calculate(String input, int one, int two){
+    private static void calculate(String input, int one, int two){
         if(input.equalsIgnoreCase("Addition")){
             System.out.println(one+two);
         }else if(input.equalsIgnoreCase("Subtraction")){
