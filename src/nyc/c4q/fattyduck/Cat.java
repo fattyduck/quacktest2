@@ -6,7 +6,7 @@ public class Cat extends Animal
 {
     public String favToy = "Toy";
 
-    public void walkAround(){
+    public void walk(){
         System.out.println(this.getName() + " stalking around");
     }
 
