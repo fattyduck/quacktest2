@@ -26,7 +26,7 @@ public class Animal
     }
 
     public void walk(){
-        System.out.println(name+" is walking around");
+        System.out.println(this.name+" is walking around");
     }
 
     public Animal(){

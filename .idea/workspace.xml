@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bc70b60-5514-4f7c-a8f5-645c2115afee" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Calculator2.java" afterPath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Calculator2.java" />
+    <list default="true" id="4bc70b60-5514-4f7c-a8f5-645c2115afee" name="Default" comment="Working on Derek Banas Tutorials">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Cat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Animal.java" afterPath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Animal.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Learn.iws" />
@@ -68,12 +69,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Calculator3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Calculator3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/Calculator3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18881118" vertical-offset="0" max-vertical-offset="715">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="35" max-vertical-offset="750">
+              <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+              <folding>
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
+                <element signature="e#859#860#0" expanded="true" />
+                <element signature="e#891#892#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.46153846" vertical-offset="0" max-vertical-offset="715">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <folding>
+                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,6 +143,8 @@
         <option value="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Graphics1.java" />
         <option value="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Calculator2.java" />
         <option value="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Calculator3.java" />
+        <option value="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Animal.java" />
+        <option value="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Cat.java" />
       </list>
     </option>
   </component>
@@ -468,7 +505,19 @@
       <option name="project" value="LOCAL" />
       <updated>1430050980889</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Using Intellij to commit&#10;Fixed some errors&#10;">
+      <created>1430051095156</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1430051095156</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Working on Derek Banas Tutorials">
+      <created>1430051748015</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1430051748015</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -543,7 +592,9 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Using Intellij to commit&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using Intellij to commit&#10;" />
+    <MESSAGE value="Using Intellij to commit&#10;Fixed some errors&#10;" />
+    <MESSAGE value="Working on Derek Banas Tutorials" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on Derek Banas Tutorials" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -747,8 +798,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1187" max-vertical-offset="3405">
           <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
           <folding>
-            <element signature="e#3139#3140#0" expanded="true" />
-            <element signature="e#3187#3188#0" expanded="true" />
+            <element signature="e#3139#3140#0" expanded="false" />
+            <element signature="e#3187#3188#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -789,9 +840,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/Calculator3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18881118" vertical-offset="0" max-vertical-offset="715">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46153846" vertical-offset="0" max-vertical-offset="715">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
