@@ -2,10 +2,11 @@ package nyc.c4q.fattyduck;
 /**
  * Created by fattyduck on 4/26/15.
  */
-public class Vehicles implements driveable
+public class Vehicles extends Crashable implements driveable
 {
     double speed = 0;
     int wheels = 2;
+    int carStrength = 0;
 
     double PI = 3.14;
 
@@ -33,6 +34,14 @@ public class Vehicles implements driveable
         this.wheels=wheels;
         this.speed=speed;
 
+    }
+
+    public void setCarStrength(int carStrength){
+        this.carStrength = carStrength;
+    }
+
+    public int getCarStrength(){
+        return  this.carStrength;
     }
 
 
