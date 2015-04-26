@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc70b60-5514-4f7c-a8f5-645c2115afee" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Crashable.java" afterPath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Crashable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Vehicles.java" afterPath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Vehicles.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/db15.java" afterPath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/db15.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/ArrayStructure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/myCollections.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/myList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Main.java" afterPath="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Learn.iws" />
@@ -30,6 +31,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="driveable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/driveable.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,12 +84,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db15.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="db15.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/db15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19148937" vertical-offset="0" max-vertical-offset="470">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myCollections.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/myCollections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="790" max-vertical-offset="1275">
+              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#768#769#0" expanded="true" />
+                <element signature="e#796#797#0" expanded="true" />
+                <element signature="e#841#842#0" expanded="true" />
+                <element signature="e#869#870#0" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
+                <element signature="e#942#943#0" expanded="true" />
+                <element signature="e#966#967#0" expanded="true" />
+                <element signature="e#990#991#0" expanded="true" />
+                <element signature="e#1092#1093#0" expanded="true" />
+                <element signature="e#1119#1120#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayStructure.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/ArrayStructure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.12765957" vertical-offset="0" max-vertical-offset="470">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/myList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <folding>
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,7 +149,7 @@
         <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/Crashable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="41" />
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding>
                 <element signature="e#167#168#0" expanded="true" />
                 <element signature="e#203#204#0" expanded="true" />
@@ -122,6 +184,9 @@
         <option value="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Crashable.java" />
         <option value="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Vehicles.java" />
         <option value="$PROJECT_DIR$/src/nyc/c4q/fattyduck/db15.java" />
+        <option value="$PROJECT_DIR$/src/nyc/c4q/fattyduck/myList.java" />
+        <option value="$PROJECT_DIR$/src/nyc/c4q/fattyduck/Main.java" />
+        <option value="$PROJECT_DIR$/src/nyc/c4q/fattyduck/myCollections.java" />
       </list>
     </option>
   </component>
@@ -206,7 +271,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Application.db15">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Calculator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -215,28 +280,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="nyc.c4q.fattyduck.Calculator2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Learn" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Calculator3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="nyc.c4q.fattyduck.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="nyc.c4q.fattyduck.Calculator3" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -303,6 +346,28 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="nyc.c4q.fattyduck.db15" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Learn" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="nyc.c4q.fattyduck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="nyc.c4q.fattyduck.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -445,18 +510,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Calculator2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Calculator3" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Graphics1" />
-      <item index="3" class="java.lang.String" itemvalue="Application.db14" />
-      <item index="4" class="java.lang.String" itemvalue="Application.db15" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Graphics1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.db14" />
+      <item index="3" class="java.lang.String" itemvalue="Application.db15" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.db15" />
-        <item index="1" class="java.lang.String" itemvalue="Application.db14" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Graphics1" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Calculator2" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Calculator3" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.db15" />
+        <item index="2" class="java.lang.String" itemvalue="Application.db14" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Graphics1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Calculator2" />
       </list>
     </recent_temporary>
   </component>
@@ -530,7 +595,13 @@
       <option name="project" value="LOCAL" />
       <updated>1430056722553</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Working on Derek Banas Tutorials">
+      <created>1430057584386</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1430057584386</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -790,14 +861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/src.zip!/java/awt/Canvas.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1187" max-vertical-offset="3405">
@@ -934,10 +997,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/db15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3319149" vertical-offset="1719" max-vertical-offset="8055">
+          <caret line="148" column="19" selection-start-line="148" selection-start-column="19" selection-end-line="148" selection-end-column="19" />
+          <folding>
+            <element signature="e#5860#5861#0" expanded="false" />
+            <element signature="e#5896#5897#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17021276" vertical-offset="6115" max-vertical-offset="6585">
+          <caret line="436" column="7" selection-start-line="436" selection-start-column="7" selection-end-line="451" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/Crashable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="41" />
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
           <folding>
             <element signature="e#167#168#0" expanded="true" />
             <element signature="e#203#204#0" expanded="true" />
@@ -945,10 +1035,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/db15.java">
+    <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/myList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19148937" vertical-offset="0" max-vertical-offset="470">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/myCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="790" max-vertical-offset="1275">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nyc/c4q/fattyduck/ArrayStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12765957" vertical-offset="0" max-vertical-offset="470">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding />
         </state>
       </provider>
