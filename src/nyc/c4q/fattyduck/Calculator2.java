@@ -28,6 +28,28 @@ public class Calculator2
             System.out.println(one % two);
         }
     }
+    public static void calc2(String input){
+
+        String[] array= input.split(" ");
+        Double  one = Double .valueOf(array[0]);
+        Double  two = Double .valueOf(array[2]);
+
+        if(array[1].equalsIgnoreCase("+")){
+            System.out.println(one+two);
+        }else if(array[1].equalsIgnoreCase("-"))
+        {
+            System.out.println(one - two);
+        }else if(array[1].equalsIgnoreCase("*"))
+        {
+            System.out.println(one * two);
+        }else if(array[1].equalsIgnoreCase("/"))
+        {
+            System.out.println(one / two);
+        }else if(array[1].equalsIgnoreCase("+"))
+        {
+            System.out.println(one % two);
+        }
+    }
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         while(true){
