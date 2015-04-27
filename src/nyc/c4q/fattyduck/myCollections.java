@@ -7,6 +7,7 @@ import java.util.Iterator;
 
 public class myCollections<E> implements Collection<E>
 {
+    Object[] myArray = new Object[0];
 
     public boolean add(E o){
 
@@ -23,17 +24,26 @@ public class myCollections<E> implements Collection<E>
     }
 
     public boolean contains(Object o){
-        return false;
+        boolean b = false;
+        for(int i = 0; i<myArray.length; i++ )
+        {
+            if(myArray[i].equals(0)){
+                b = true;
+            }
+        }
+        return b;
 
     }
 
     public boolean containsAll(Collection o){
+
+
         return false;
 
     }
 
     public boolean equals(Object c){
-        return false;
+        return myArray.equals(c);
     }
 
     public int hashcode(){
@@ -41,7 +51,7 @@ public class myCollections<E> implements Collection<E>
     }
 
     public boolean isEmpty(){
-        return false;
+        return myArray.length==0;
     }
 
     public Iterator iterator(){
@@ -62,7 +72,7 @@ public class myCollections<E> implements Collection<E>
     }
 
     public int size(){
-        return 1;
+        return myArray.length;
     }
 
     public Object[] toArray(){
