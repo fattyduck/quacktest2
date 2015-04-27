@@ -1,6 +1,7 @@
 /**
  * Created by Fattyduck on 4/27/2015.
  */
+package nyc.c4q.fattyduck;
 public class Triangle {
     double area;
     int height;
